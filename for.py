@@ -1,6 +1,13 @@
+
 # Esto imprime hola mundo n veces
 
-for n in range(11)
-  print("Hola mundo" + n)
+for x in range(11)
+  print("Hola mundo" + x)
+  
+# blah blah
+
+for n in range(20)
+  print(n)
+
   
   
