@@ -30,4 +30,6 @@ Este es otro texto. Ejemplo de código en Python
 
 Haga click [aquí](http://www.google.com) para ir a **Google**. 
 
-Este es otro texto más
+Este es otro texto más.
+
+Haga click [aquí](http://www.unal.edu.co) para ir a *Universidad Nacional de Colombia*
